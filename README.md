@@ -1,4 +1,5 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
+<h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h3 align="center">An Aspiring MERN stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -10,11 +11,11 @@
 
 - 📫 How to reach me **pradeepkumarpolaki910@gmail.com**
 
-- ⚡ Fun fact **Talk is cheap. Show me the code**
+- ⚡ Fun fact **Talk is cheap.Show me the code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pradeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeepkumar910/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeepkumar910/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
