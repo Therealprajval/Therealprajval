@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pradeepkumarpolaki910@gmail.com**
 
+- 📄 Know about my experiences [file:///C:/Users/91770/Desktop/Pradeep%20Kumar.pdf](file:///C:/Users/91770/Desktop/Pradeep%20Kumar.pdf)
+
 - ⚡ Fun fact **Talk is cheap.Show me the code**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealprajval&show_icons=true&locale=en&layout=compact" alt="therealprajval" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therealprajval&show_icons=true&locale=en" alt="therealprajval" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therealprajval&" alt="therealprajval" /></p>
